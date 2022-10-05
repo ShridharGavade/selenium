@@ -14,6 +14,8 @@ public class ActionsDeme {
 
 		WebDriver driver = new ChromeDriver();
 		
+		
+		
 		driver.manage().window().maximize();
 //		
 //		driver.get("http://www.dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html");
