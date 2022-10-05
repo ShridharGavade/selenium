@@ -18,6 +18,7 @@ public class seleniumMethods {
 		
 //      maximize the window
       driver.manage().window().maximize();
+      
 		
 //	navigato to url	
 //		driver.get("https://www.facebook.com/");
